@@ -1,0 +1,46 @@
+:root {
+  --primary-color: #222831;
+  --secondary-blue-color: #00adb5;
+  --secondary-gray-color: #393e46;
+  --secondary-white-color: #eeeeee;
+}
+body {
+  background-color: var(--secondary-white-color);
+}
+.accordion-button {
+  background-color: var(--secondary-gray-color);
+  color: var(--secondary-blue-color);
+}
+.accordion-item {
+  background-color: var(--secondary-white-color);
+}
+.accordion-button:not(.collapsed) {
+  background-color: var(--primary-color);
+  color: var(--secondary-blue-color);
+  font-weight: bold;
+  border: none !important;
+  box-shadow: none !important;
+}
+.accordion-button:not(.collapsed) {
+  border: none;
+  box-shadow: none !important;
+}
+.btn-collapse {
+  background-color: var(--secondary-blue-color);
+  color: var(--primary-color);
+}
+.btn-collapse:hover {
+  background-color: var(--secondary-blue-color) !important;
+}
+.card-link {
+  cursor: pointer;
+}
+a {
+  color: var(--secondary-blue-color);
+  text-decoration: none;
+  font-weight: bolder;
+}
+.card-header {
+  background-color: var(--secondary-gray-color);
+  color: var(--secondary-white-color);
+}
