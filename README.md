@@ -4,8 +4,7 @@
 generate API for courses and Students and connect the response to 
 mongoDB with mongoos 
 
-
-
+# [website](https://api-nodejs-2dwo.onrender.com/)
 
 ## Running Project
 
@@ -29,9 +28,6 @@ npm run start
 
 https://user-images.githubusercontent.com/78926069/224539917-dbdab0e5-9d99-4e84-a94c-59430203feb1.mp4
 
-## Sample Node API
-### API version : 1.0 
-# [website](https://api-nodejs-2dwo.onrender.com/)
 ## students 
 | Method             | EndPoint                                                                |
 | ----------------- | ------------------------------------------------------------------ |
