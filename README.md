@@ -4,6 +4,9 @@
 generate API for courses and Students and connect the response to 
 mongoDB with mongoos 
 
+
+
+
 ## Running Project
 
 To run project , run the following command
@@ -24,11 +27,11 @@ npm run start
 
 ## Demo
 
-https://user-images.githubusercontent.com/78926069/224539851-43960f7a-93b6-4905-a695-80ff9e63009d.mp4
+https://user-images.githubusercontent.com/78926069/224539917-dbdab0e5-9d99-4e84-a94c-59430203feb1.mp4
 
 ## Sample Node API
 ### API version : 1.0 
-[base URL : ] 
+# [website](https://api-nodejs-2dwo.onrender.com/)
 ## students 
 | Method             | EndPoint                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -64,3 +67,9 @@ https://user-images.githubusercontent.com/78926069/224539851-43960f7a-93b6-4905-
     "duration":42
 }
 ```
+## Futuer Features
+
+- Authentication
+- Error handling
+
+
