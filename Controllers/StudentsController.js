@@ -1,4 +1,4 @@
-const validate = require("../Utils/studentsValidation");
+// const validate = require("../Utils/studentsValidation");
 const Student = require("../Models/student");
 
 exports.createStudent = async (req, res) => {

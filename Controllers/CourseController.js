@@ -1,4 +1,4 @@
-const validate = require("../Utils/CoursesValidation");
+// const validate = require("../Utils/CoursesValidation");
 const Course = require("../Models/Course");
 
 // exports.checkBody = (req, res, next) => {
